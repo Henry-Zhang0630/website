@@ -73,4 +73,4 @@ highlight_name: true
 Zhang Heng is a PhD of Education at the KM&EL Lab in the University of Hong Kong. His research interests include education, technology-enhanced learning and learning sciences. He is being supervised by Professor Wang.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
